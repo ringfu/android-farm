@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+    <!--主界面只有图片，登录/注册按钮，退出按钮-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/main"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="30sp"
+            android:textColor="@color/FireBrick"
+            android:text="品质智慧农场欢迎您！"
+            android:gravity="center"
+            />
+
+        <!--因为本界面组件较少，直接在按钮上设置onClick触发器-->
+        <Button
+
+            android:layout_marginTop="400dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="30sp"
+            android:textColor="@color/Black"
+            android:text="登录/注册"
+            android:background="@color/CadetBlue"
+            android:onClick="login"
+            />
+
+        <Button
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="30sp"
+            android:textColor="@color/Black"
+            android:text="退出"
+            android:background="@color/DarkCyan"
+            android:onClick="exit"
+            />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
+

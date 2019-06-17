@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--使用ListView和Item以及Fragment没有成功，直接将功能选择写到这里-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <!--劳作模块-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="30sp"
+            android:textColor="@color/Black"
+            android:drawableLeft="@drawable/work"
+            android:text="劳作"/>
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+            <TableRow>
+                <Button
+                    android:id="@+id/landmanage_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="土地管理"/>
+                <Button
+                    android:id="@+id/material_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="生产材料"/>
+                <Button
+                    android:id="@+id/fertilizer_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="配肥配药"/>
+            </TableRow>
+        </TableLayout>
+
+        <!--记录模块-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="30sp"
+            android:textColor="@color/Black"
+            android:gravity="center"
+            android:drawableLeft="@drawable/record"
+            android:text="记录"/>
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3">
+            <TableRow>
+                <Button
+                    android:id="@+id/plan_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="生产计划"/>
+                <Button
+                    android:id="@+id/record_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="生产记录"/>
+            </TableRow>
+
+            <TableRow>
+                <Button
+                    android:id="@+id/reap_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="实际收获"/>
+                <Button
+                    android:id="@+id/forecast_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="预计收获"/>
+            </TableRow>
+        </TableLayout>
+
+        <!--经营模块-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:textSize="30sp"
+            android:textColor="@color/Black"
+            android:gravity="center"
+            android:drawableLeft="@drawable/money"
+            android:text="经营"/>
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+            <TableRow>
+                <Button
+                    android:id="@+id/remind_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="交易提醒"/>
+                <Button
+                    android:id="@+id/profit_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="交易盈亏"/>
+            </TableRow>
+
+        </TableLayout>
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
+
+<!--
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3">
+            <TableRow>
+                <Button
+                    android:id="@+id/plan_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="生产计划"/>
+                <Button
+                    android:id="@+id/record_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="生产记录"/>
+            </TableRow>
+
+        </TableLayout>
+
+-->

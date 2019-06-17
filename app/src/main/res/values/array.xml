@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="land_area">
+        <item>华北</item>
+        <item>华南</item>
+        <item>华中</item>
+        <item>西部</item>
+    </string-array>
+    <string-array name="land_mark">
+        <item>1号</item>
+        <item>2号</item>
+        <item>3号</item>
+        <item>4号</item>
+    </string-array>
+    <string-array name="land_block">
+        <item>1块</item>
+        <item>2块</item>
+        <item>3块</item>
+        <item>4块</item>
+    </string-array>
+    <string-array name="land_station">
+        <item>1号位</item>
+        <item>2号位</item>
+        <item>3号位</item>
+        <item>4号位</item>
+    </string-array>
+</resources>

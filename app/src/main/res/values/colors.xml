@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--网页上获取的颜色库-->
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#005700</color>
+    <color name="colorAccent">#D81B60</color>
+       <!--爱丽丝蓝-->
+    <color name="AliceBlue">#F0F8FF</color>
+    <!--古色古香的白色-->
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <!--水族-->
+    <color name="Aqua">#00FFFF</color>
+    <!--蓝晶-->
+    <color name="Aquamarine">#7FFFD4</color>
+    <!--天蓝-->
+    <color name="Azure">#F0FFFF</color>
+    <!--米色-->
+    <color name="Beige">#F5F5DC</color>
+    <!--浓汤-->
+    <color name="Bisque">#FFE4C4</color>
+    <!--黑色-->
+    <color name="Black">#000000</color>
+    <!--杏仁白-->
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <!--蓝色-->
+    <color name="Blue">#0000FF</color>
+    <!--紫罗兰色-->
+    <color name="BlueViolet">#8A2BE2</color>
+    <!--棕色-->
+    <color name="Brown">#A52A2A</color>
+    <!--原木色-->
+    <color name="BurlyWood">#DEB887</color>
+    <!--藏青-->
+    <color name="CadetBlue">#5F9EA0</color>
+    <!--黄绿色-->
+    <color name="Chartreuse">#7FFF00</color>
+    <!--巧克力-->
+    <color name="Chocolate">#D2691E</color>
+    <!--珊瑚-->
+    <color name="Coral">#FF7F50</color>
+    <!--矢菊花-->
+    <color name="CornflowerBlue">#6495ED</color>
+    <!--玉米穗黄-->
+    <color name="Cornsilk">#FFF8DC</color>
+    <!--赤红-->
+    <color name="Crimson">#DC143C</color>
+    <!--青色-->
+    <color name="Cyan">#00FFFF</color>
+    <!--深蓝-->
+    <color name="DarkBlue">#00008B</color>
+    <!--深青绿-->
+    <color name="DarkCyan">#008B8B</color>
+    <!--深金黄-->
+    <color name="DarkGoldenRod">#B8860B</color>
+    <!--深灰色-->
+    <color name="DarkGray">#A9A9A9</color>
+    <!--深绿色-->
+    <color name="DarkGreen">#006400</color>
+    <!--深卡其色-->
+    <color name="DarkKhaki">#BDB76B</color>
+    <!--深洋红-->
+    <color name="DarkMagenta">#8B008B</color>
+    <!--深橄榄绿-->
+    <color name="DarkOliveGreen">#556B2F</color>
+    <!--深橙-->
+    <color name="Darkorange">#FF8C00</color>
+    <!--深兰花紫-->
+    <color name="DarkOrchid">#9932CC</color>
+    <!--深红-->
+    <color name="DarkRed">#8B0000</color>
+    <!--深橙红-->
+    <color name="DarkSalmon">#E9967A</color>
+    <!--海藻绿-->
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <!--深青蓝-->
+    <color name="DarkSlateBlue">#483D8B</color>
+    <!--深青灰-->
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <!--深粉蓝-->
+    <color name="DarkTurquoise">#00CED1</color>
+    <!--深紫-->
+    <color name="DarkViolet">#9400D3</color>
+    <!--深粉红-->
+    <color name="DeepPink">#FF1493</color>
+    <!--深天蓝-->
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <!--暗灰-->
+    <color name="DimGray">#696969</color>
+    <!--宝蓝-->
+    <color name="DodgerBlue">#1E90FF</color>
+    <!--长石-->
+    <color name="Feldspar">#D19275</color>
+    <!--耐火砖-->
+    <color name="FireBrick">#B22222</color>
+    <!--花白-->
+    <color name="FloralWhite">#FFFAF0</color>
+    <!--森林绿-->
+    <color name="ForestGreen">#228B22</color>
+    <!--紫红色-->
+    <color name="Fuchsia">#FF00FF</color>
+    <!--亮灰-->
+    <color name="Gainsboro">#DCDCDC</color>
+    <!--幽灵的白色-->
+    <color name="GhostWhite">#F8F8FF</color>
+    <!--金色-->
+    <color name="Gold">#FFD700</color>
+    <!--黄花-->
+    <color name="GoldenRod">#DAA520</color>
+    <!--灰色-->
+    <color name="Gray">#808080</color>
+    <!--绿色-->
+    <color name="Green">#008000</color>
+    <!--黄绿色-->
+    <color name="GreenYellow">#ADFF2F</color>
+    <!--甘露-->
+    <color name="HoneyDew">#F0FFF0</color>
+    <!--亮粉色-->
+    <color name="HotPink">#FF69B4</color>
+    <!--印度红-->
+    <color name="IndianRed">#CD5C5C</color>
+    <!--靛青-->
+    <color name="Indigo">#4B0082</color>
+    <!--象牙-->
+    <color name="Ivory">#FFFFF0</color>
+    <!--黄褐色-->
+    <color name="Khaki">#F0E68C</color>
+    <!--薰衣草-->
+    <color name="Lavender">#E6E6FA</color>
+    <!--淡紫-->
+    <color name="LavenderBlush">#FFF0F5</color>
+    <!--草绿-->
+    <color name="LawnGreen">#7CFC00</color>
+    <!--粉黄-->
+    <color name="LemonChiffon">#FFFACD</color>
+    <!--浅蓝-->
+    <color name="LightBlue">#ADD8E6</color>
+    <!--浅珊瑚红-->
+    <color name="LightCoral">#F08080</color>
+    <!--浅青绿-->
+    <color name="LightCyan">#E0FFFF</color>
+    <!--浅金黄-->
+    <color name="LightGoldenRodYellow">#FAFAD2</color>
+    <!--浅灰色-->
+    <color name="LightGrey">#D3D3D3</color>
+    <!--浅绿-->
+    <color name="LightGreen">#90EE90</color>
+    <!--淡粉色-->
+    <color name="LightPink">#FFB6C1</color>
+    <!--橙红-->
+    <color name="LightSalmon">#FFA07A</color>
+    <!--海藻绿-->
+    <color name="LightSeaGreen">#20B2AA</color>
+    <!--天蓝-->
+    <color name="LightSkyBlue">#87CEFA</color>
+    <!--光蓝色-->
+    <color name="LightSlateBlue">#8470FF</color>
+    <!--青灰-->
+    <color name="LightSlateGray">#778899</color>
+    <!--浅钢-->
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <!--浅黄色-->
+    <color name="LightYellow">#FFFFE0</color>
+    <!--青柠-->
+    <color name="Lime">#00FF00</color>
+    <!--暗绿-->
+    <color name="LimeGreen">#32CD32</color>
+    <!--麻布-->
+    <color name="Linen">#FAF0E6</color>
+    <!--品红-->
+    <color name="Magenta">#FF00FF</color>
+    <!--栗色-->
+    <color name="Maroon">#800000</color>
+    <!--草绿-->
+    <color name="MediumAquaMarine">#66CDAA</color>
+    <!--暗蓝-->
+    <color name="MediumBlue">#0000CD</color>
+    <!--暗兰花-->
+    <color name="MediumOrchid">#BA55D3</color>
+    <!--暗紫-->
+    <color name="MediumPurple">#9370D8</color>
+    <!--暗海藻-->
+    <color name="MediumSeaGreen">#3CB371</color>
+    <!--青蓝-->
+    <color name="MediumSlateBlue">#7B68EE</color>
+    <!--嫩绿-->
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <!--粉蓝-->
+    <color name="MediumTurquoise">#48D1CC</color>
+    <!--暗紫-->
+    <color name="MediumVioletRed">#C71585</color>
+    <!--黑蓝-->
+    <color name="MidnightBlue">#191970</color>
+    <!--薄荷乳白-->
+    <color name="MintCream">#F5FFFA</color>
+    <!--粉玫瑰红-->
+    <color name="MistyRose">#FFE4E1</color>
+    <!--莫卡辛-->
+    <color name="Moccasin">#FFE4B5</color>
+    <!--土著白-->
+    <color name="NavajoWhite">#FFDEAD</color>
+    <!--深蓝色-->
+    <color name="Navy">#000080</color>
+    <!--旧布黄-->
+    <color name="OldLace">#FDF5E6</color>
+    <!--黄绿色-->
+    <color name="Olive">#808000</color>
+    <!--淡绿褐-->
+    <color name="OliveDrab">#6B8E23</color>
+    <!--橙色-->
+    <color name="Orange">#FFA500</color>
+    <!--橙红色-->
+    <color name="OrangeRed">#FF4500</color>
+    <!--兰花-->
+    <color name="Orchid">#DA70D6</color>
+    <!--淡金黄-->
+    <color name="PaleGoldenRod">#EEE8AA</color>
+    <!--浅绿色-->
+    <color name="PaleGreen">#98FB98</color>
+    <!--淡蓝绿-->
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <!--浅紫红-->
+    <color name="PaleVioletRed">#D87093</color>
+    <!--粉木瓜橙-->
+    <color name="PapayaWhip">#FFEFD5</color>
+    <!--粉桃红-->
+    <color name="PeachPuff">#FFDAB9</color>
+    <!--秘鲁-->
+    <color name="Peru">#CD853F</color>
+    <!--粉-->
+    <color name="Pink">#FFC0CB</color>
+    <!--李子-->
+    <color name="Plum">#DDA0DD</color>
+    <!--粉蓝色-->
+    <color name="PowderBlue">#B0E0E6</color>
+    <!--紫色-->
+    <color name="Purple">#800080</color>
+    <!--红-->
+    <color name="Red">#FF0000</color>
+    <!--玫瑰褐-->
+    <color name="RosyBrown">#BC8F8F</color>
+    <!--宝蓝色-->
+    <color name="RoyalBlue">#4169E1</color>
+    <!--重褐色-->
+    <color name="SaddleBrown">#8B4513</color>
+    <!--三文鱼-->
+    <color name="Salmon">#FA8072</color>
+    <!--黄褐色-->
+    <color name="SandyBrown">#F4A460</color>
+    <!--海绿色-->
+    <color name="SeaGreen">#2E8B57</color>
+    <!--贝壳-->
+    <color name="SeaShell">#FFF5EE</color>
+    <!--赭色-->
+    <color name="Sienna">#A0522D</color>
+    <!--银-->
+    <color name="Silver">#C0C0C0</color>
+    <!--天蓝色-->
+    <color name="SkyBlue">#87CEEB</color>
+    <!--青蓝-->
+    <color name="SlateBlue">#6A5ACD</color>
+    <!--青灰-->
+    <color name="SlateGray">#708090</color>
+    <!--雪白色-->
+    <color name="Snow">#FFFAFA</color>
+    <!--嫩绿-->
+    <color name="SpringGreen">#00FF7F</color>
+    <!--钢青-->
+    <color name="SteelBlue">#4682B4</color>
+    <!--黄褐色-->
+    <color name="Tan">#D2B48C</color>
+    <!--蓝绿色-->
+    <color name="Teal">#008080</color>
+    <!--蓟-->
+    <color name="Thistle">#D8BFD8</color>
+    <!--番茄-->
+    <color name="Tomato">#FF6347</color>
+    <!--绿松石-->
+    <color name="Turquoise">#40E0D0</color>
+    <!--紫色-->
+    <color name="Violet">#EE82EE</color>
+    <!--紫罗兰红-->
+    <color name="VioletRed">#D02090</color>
+    <!--小麦-->
+    <color name="Wheat">#F5DEB3</color>
+    <!--白色-->
+    <color name="White">#FFFFFF</color>
+    <!--白色的烟-->
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <!--黄色-->
+    <color name="Yellow">#FFFF00</color>
+    <!--黄绿色-->
+    <color name="YellowGreen">#9ACD32</color>
+
+    <color name="transparent_half">#a0000000</color>
+    <color name="transparent_half_orange">#a0ec6f1a</color>
+
+
+    <color name="top_bar_normal_bg">#ec6f1a</color>
+
+    <color name="bg_normal_gray">#e0e0e0</color>
+
+    <color name="line">#e0e0e0</color>
+    <color name="tv_gray_litter">#FAF0E6</color>
+    <color name="tv_gray_normal">#c0c0c0</color>
+    <color name="tv_gray_deep">#818181</color>
+    <color name="tv_gray_lit">#50b1b1b1</color>
+    <color name="tv_gray">@android:color/darker_gray</color>
+    <color name="tv_color">#ffffff</color>
+    <color name="list_glide">#50e0e0e0</color>
+
+
+    <!-- 公司主题色 -->
+    <color name="orange_main">#ec6f1a</color>
+    <color name="orange_light">#ffd39b</color>
+    <color name="orange_deep">#ff6f3a</color>
+    <color name="orange_most">#C76114</color>
+    <color name="orange_litter">#80aa6136</color>
+
+
+    <color name="white">#fffffa</color>
+    <color name="gray">#cccccc</color>
+
+    <color name="text_avgpre">#ffecc50d</color>
+    <color name="drop_down_selected">#7B1FA2</color>
+    <color name="drop_down_unselected">#111111</color>
+    <color name="black_translucent">#50000000</color>
+    <!-- 浅灰色 -->
+    <color name="gray_light">#E7E7E7</color>
+
+    <color name="mask_color">#88888888</color>
+    <color name="main_bg">#10aaaaaa</color>
+    <color name="main_bg_userinfo">#10777777</color>
+    <color name="temple_header_color">#50888888</color>
+    <color name="check_bg">#f2f2f2</color>
+    <color name="un_press_color">#9C27B0</color>
+
+    <color name="color_back">#207579</color>
+    <color name="color_backnor">#7fdcd9</color>
+    <color name="color_dialog">#33B5E5</color>
+
+    <!--******  floating Action Button *********-->
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+
+    <!--****************  bottonnavigation   ********************-->
+
+    <color name="teal">#00796B</color>
+    <color name="te">#80FCE6C9</color>
+    <color name="brown">#8D6E63</color>
+    <color name="blue">#2196F3</color>
+    <color name="red">#FF0000</color>
+    <color name="grey">#607D8B</color>
+    <color name="orange">#F57C00</color>
+
+
+    <!--searchView-->
+    <color name="search_layover_bg">#50000000</color>
+    <color name="theme_primary">#2196F3</color>
+
+</resources>

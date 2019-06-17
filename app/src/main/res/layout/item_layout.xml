@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <!--选中左边LIstview显示Item-->
+        <LinearLayout
+            android:id="@+id/mYueDouLin"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            tools:ignore="MissingConstraints">
+            <TextView
+                android:visibility="gone"
+                android:id="@+id/mYueDouXianShi"
+                android:background="@android:color/holo_red_dark"
+                android:layout_width="3dp"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:gravity="center"
+                android:id="@+id/mListViewText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
